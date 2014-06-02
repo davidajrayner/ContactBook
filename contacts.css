@@ -1,0 +1,250 @@
+/* index */
+/**/
+body{
+	background-color:white;
+	font-size:22px;
+}
+
+div#banner{
+	margin-top:35px;
+	margin-bottom:20px;
+	text-align:center;
+}
+
+img#banner_image{
+	height:180px;
+	width:auto;
+}
+
+div#index_preamble{
+	margin:auto;
+	width:1000px;
+	margin-top:35px;
+	margin-bottom:35px;
+}
+
+span#highlight_word{
+	font-weight:bold;
+	color:rgb(202,66,49);
+}
+
+div#links_index{
+	margin:auto;
+	width:300px;
+	margin-top:45px;
+	font-size:23px;
+}
+
+img#img_link_icon_index{
+	width:60px;
+	height:auto;
+}
+
+td#td_links{
+	padding-right:15px;
+}
+
+/* insert contact */
+/**/
+div#insert_contact_preamble{
+	margin:auto;
+	width:560px;
+	margin-top:35px;
+	margin-bottom:35px;
+}
+
+form#insert_contact_form{
+	width:690px;
+	margin-left:620px;
+}
+
+div.contact_fields{
+	text-align:left;
+	margin:11px 10px 10px 3px;
+	font-size:21px;
+}
+
+input{
+	width:160px;
+}
+
+div#insert_submit{
+	margin-top:25px;
+	margin-left:50px;
+}
+
+#submitBtn{
+	background:rgb(202,66,49);
+	font-size:19px;
+	width:70px;
+}
+
+.error{
+	font-size:12px;
+	color:rgb(202,66,49);
+}
+
+div#identical_contact_error{
+	margin:auto;
+	width:1200px;
+	margin-top:35px;
+	margin-bottom:25px;
+}
+
+.identical_contact_error{
+	margin-left:48px;
+	font-size:18px;
+	font-weight:bold;
+	color:rgb(205,75,62);
+}
+
+div#links_insert_contact{
+	margin:auto;
+	width:500px;
+	margin-top:45px;
+	font-size:20px;
+}
+
+img#img_link_icon_footer{
+	width:40px;
+	height:auto;
+}
+
+td#td_links_footer_icon{
+	padding-right:10px;
+}
+
+td#td_links_footer_text{
+	padding-right:30px;
+}
+
+/* insert contact confirmation */
+/**/
+div#confirmation_header{
+	margin:auto;
+	width:730px;
+	margin-top:35px;
+	margin-bottom:35px;
+}
+
+table#table_confirmation{
+	margin:auto;
+	margin-bottom:10px;
+	font-size:22px;
+	border-collapse:collapse;
+	border:2px solid rgb(205,75,62);
+}
+
+td#td_confirmation{
+	padding-left:15px;
+	padding-right:15px;
+	padding-top:7px;
+	padding-bottom:7px;
+	background-color:white;
+	border:2px solid rgb(205,75,62);
+}
+
+td#td_confirmation_data{
+	padding-left:15px;
+	padding-right:15px;
+	padding-top:7px;
+	padding-bottom:7px;
+	background-color:white;
+	color:rgb(202,66,49);
+	border:2px solid rgb(205,75,62);
+}
+
+div#links_insert_contact_confirmation{
+	margin:auto;
+	width:740px;
+	margin-top:45px;
+	font-size:20px;
+}
+
+
+/* search contact */
+/**/
+div#search_contact_preamble{
+	margin:auto;
+	width:570px;
+	margin-top:35px;
+	margin-bottom:35px;
+}
+
+form#search_form{
+	width:680px;
+	margin-left:620px;
+}
+
+div.search_fields{
+	text-align:left;
+	margin:11px 10px 10px 3px;
+	font-size:21px;
+}
+
+div#search_submit{
+	margin-top:25px;
+	margin-left:50px;
+}
+
+div#links_search_contact{
+	margin:auto;
+	width:500px;
+	margin-top:45px;
+	font-size:20px;
+}
+
+
+/* search results */
+/**/
+div#preamble_results{
+	text-align:center;
+	margin-top:35px;
+	margin-bottom:35px;
+}
+
+span#search_keywords{
+	color:rgb(202,66,49);
+	font-size:21px;
+}
+
+table#table_search_results{
+	margin:auto;
+	margin-bottom:10px;
+	font-size:22px;
+	border-collapse:collapse;
+	border:2px solid rgb(205,75,62);
+}
+
+td#td_search_results{
+	padding-left:15px;
+	padding-right:15px;
+	padding-top:7px;
+	padding-bottom:7px;
+	background-color:white;
+	border:2px solid rgb(205,75,62);
+}
+
+td#td_search_results_data{
+	padding-left:15px;
+	padding-right:15px;
+	padding-top:7px;
+	padding-bottom:7px;
+	background-color:white;
+	color:rgb(202,66,49);
+	border:2px solid rgb(205,75,62);
+}
+
+div#no_results{
+	text-align:center;
+	margin-top:35px;
+	margin-bottom:35px;
+}
+
+div#links_search_contact_results{
+	margin:auto;
+	width:845px;
+	margin-top:45px;
+	font-size:20px;
+}
+
